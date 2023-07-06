@@ -6,7 +6,7 @@
 HTML CSS 
 
 🚀 Live Demo
-Live Demo Link https://sharminkhan0.github.io/
+Live Demo Link https://sharminkhan0.github.io/Singup-form/
 
 Getting Started
 To get a local copy, run the following command.
@@ -14,7 +14,7 @@ To get a local copy, run the following command.
 Deployment
 You can deploy your project using GitHub free source.
 
-git clone git@github.com:sharminkhan0/Accessi.git Usage Run the live server
+git clone git@github.com:sharminkhan0/Singup-form.git Usage Run the live server
 
 Authors
 👤 Author
