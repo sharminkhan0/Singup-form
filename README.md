@@ -1,9 +1,9 @@
 # 📗 Table of Contents
 
-📖 Accessible-Login-and-Signup-Formm This project is created according to the skills in the open-source curriculum. Further information can be searched at any site. The goal here is to create a Accessible-Login-and-Signup-Form using HTML, CSS, and JS.
+📖 Accessible-Login-and-Signup-Formm This project is created according to the skills in the open-source curriculum. Further information can be searched at any site. The goal here is to create a Accessible-Login-and-Signup-Form using HTML, CSS.
 
 🛠 Built With
-HTML CSS JavaScript
+HTML CSS 
 
 🚀 Live Demo
 Live Demo Link https://sharminkhan0.github.io/
